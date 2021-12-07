@@ -1,0 +1,15 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#191970"
+    android:id="@+id/ll1">
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Click Here"
+        android:background="#32cd32"
+        android:textColor="#3f76ff"
+        android:id="@+id/btn1"
+        android:onClick="Click"/>
+</LinearLayout>
